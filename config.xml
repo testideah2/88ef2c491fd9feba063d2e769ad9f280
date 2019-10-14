@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.cherryshoes.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. cherry-shoes.ru</name>
+    <name>ТЕСТ. </name>
 
     <description>
         Интернет-магазин CHERRY SHOES в вашем мобильном приложении : 
@@ -32,7 +32,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#F7F8F9" />
+    <preference name="SplashScreenSpinnerColor" value="#F9FAFB" />
 
 
     <platform name="android">
