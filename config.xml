@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.cherryshoes.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. </name>
+    <name></name>
 
     <description>
         Интернет-магазин CHERRY SHOES в вашем мобильном приложении : 
